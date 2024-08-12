@@ -21,7 +21,7 @@ Este informe esta realizado para una investigación sobre un archivo de infecci�
 
 #	Introduction
 "" Meowraur ""  Es una tienda online de maquillaje y manejo de stock 
-- EL dia martes 18 deagosto 2024  el ataque fue detectado a la base de datos de la empresa dejando encubierta los datos personales y ubicaciones de los clientes.
+- EL dia martes 18 deagosto 2024 a las 15:00 de la tarde  fue detectado virus  a la base de datos de la empresa dejando encubierta los datos personales y ubicaciones de los clientes. 
 - buscando soluciones mas efectivas para mejorar y mitigar la informacion entregada creando software  mas resguardados y dificil de penetrar y evitando intentos de phishing al sistema .
 
 # Antecedents del caso *
@@ -31,21 +31,27 @@ el dia martes 18 de agosto del año 2024 fue detectado un ataque de malware la b
 # Objetivo del análisis 
 * Ataque a la base de datos con malware 
 * Dejando en evidencia el ataque directo 
-* Creando un codigo de identificacion para cada resguardar la informacion de los usuarios 
+* Creando un codigo de identificacion para cada resguardar la informacion de los usuarios
 
 #	Metodlogia
 •	Herramientas utilizadas
   Iso 27001 
 - Entender los requisitos de seguridad de la tienda y la necesidad de establecer politicas y objetivos para la seguridad de la informacion.
-- monitorizar y evaluar el rendimiento y efectividad del SGSI
-- Uso de Zaplier para los flujos de trabajos automatizados 
+*Nessus**:herramienta de escaneo de vulnerabilidades que permite que se puedan detectar riesgos en la seguridad del sistema y en las aplicaciones.
+
+**OpenVAS**:Es una herramienta que escanea vulnerabilidades de código abierto, que identifica los riesgos de seguridad en un sistema y aplicaciones.
+
+**Nmap**: Herrramienta que permite explorar redes identificando los dispositivos y servicios que pueden estar en ejecución, ayudando a identificar vulnerabilidades.
+
+**Metasploit**: Herramienta de detección de vulnerabilidades, que explota vulnerabilidades en un sistema.
 
 •	Procedimeintos de adquisicion
+
 •	Tecnicas de analisis
 
 #	Hallazgos
 - Evidencia digital (archivos, registros. etc.)
-  Evidencia digital
+  Evidencia digital :
 
 - análisis de la red
 
